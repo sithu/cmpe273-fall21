@@ -14,3 +14,8 @@ You will be using [wal2json](https://access.crunchydata.com/documentation/wal2js
 ### Postgres schema
 * DB name: college
 * Table: students, classes
+
+## File naming
+
+* client_repl.py
+* server_repl.py
