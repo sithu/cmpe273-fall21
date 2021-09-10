@@ -7,6 +7,8 @@ You will be building a data replicator from Postgres to MongoDB. You must use GR
 - Postgres version 13.4
 - MongoDB version 5.0.2
 
+You will be using [wal2json](https://access.crunchydata.com/documentation/wal2json/2.0/) plugin to decode binary WAL to JSON format.
+
 ## Test Data
 
 ### Postgres schema
