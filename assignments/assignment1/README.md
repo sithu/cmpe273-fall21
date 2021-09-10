@@ -17,5 +17,5 @@ You will be using [wal2json](https://access.crunchydata.com/documentation/wal2js
 
 ## File naming
 
-* client_repl.py
-* server_repl.py
+* client/client_repl.py
+* server/server_repl.py
