@@ -13,7 +13,30 @@ You will be using [wal2json](https://access.crunchydata.com/documentation/wal2js
 
 ### Postgres schema
 * DB name: college
-* Table: students, classes
+* Table: students
+
+### Columns
+- id (Postgres default primary key)
+- first_name (string)
+- last_name (string)
+- sjsu_id (string)
+- email (string)
+- create_timestamp
+- update_timestamp
+
+### MongoDB
+* DB name: college
+* Collection: students
+
+### Columns
+- id (MongoDB generated primary key)
+- first_name (string)
+- last_name (string)
+- sjsu_id (string)
+- email (string)
+- create_timestamp
+- update_timestamp
+
 
 ## File naming
 
